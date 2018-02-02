@@ -1,0 +1,3 @@
+[submodule "RTSS_IPC_NS_JSON/lib/cJSON"]
+	path = RTSS_IPC_NS_JSON/lib/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
